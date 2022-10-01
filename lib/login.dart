@@ -24,7 +24,7 @@ class Wqfni extends StatelessWidget {
 
           decoration: const BoxDecoration(
             //image: DecorationImage(colorFilter: ColorFilter.mode(Color.fromRGBO(155, 98, 253, 0.2), BlendMode.dstATop), image: AssetImage('assets/road3.png'), alignment: Alignment.bottomRight,),
-            color: Color.fromRGBO(155, 98, 253, 1.0),
+            color: Color.fromRGBO(0, 98, 253, 1.0),
           ),
 
           child: Stack(
