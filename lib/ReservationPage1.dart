@@ -21,7 +21,7 @@ class _ReservationPage1State extends State<ReservationPage1> {
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         resizeToAvoidBottomInset: false,
-        backgroundColor: const Color.fromRGBO(5, 98, 253, 1),
+        backgroundColor: const Color.fromRGBO(2, 98, 253, 1),
         body: SizedBox(
           width: size.width,
           height: size.height,
